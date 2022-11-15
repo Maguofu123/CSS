@@ -59,5 +59,5 @@
 3. 相邻兄弟选择器  同类且下一个 `.active + p{background: blue;}`
 4. 通用兄弟选择器  同类且下面所有`.active~p{background: chartreuse;}`
 
-
-- 
+- 结构伪类选择器
+伪类： 条件
