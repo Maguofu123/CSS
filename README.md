@@ -54,9 +54,10 @@
 
 2.高级选择器
 - 层次选择器
-1. 后代选择器
-2. 子选择器
-3. 相邻兄弟选择器
-4. 通用选择器
+1. 后代选择器  后面所有`body p{background: aliceblue;}`
+2. 子选择器  一代`body>p{background: #3b8686;}`
+3. 相邻兄弟选择器  同类且下一个 `.active + p{background: blue;}`
+4. 通用兄弟选择器  同类且下面所有`.active~p{background: chartreuse;}`
+
 
 - 
