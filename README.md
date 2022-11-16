@@ -86,4 +86,10 @@ RGB颜色，RGBA透明度，text-align排版
 水平居中：text-align:center
 
 首行缩进：text-indent:2em
-竖直居中
+
+竖直居中：使图片框大小和行大小相同，vertical-align
+
+超链接伪类：一般使用hover，active，link，visited很少使用
+
+**列表**
+div标签，选中一定的范围，和span一样
