@@ -93,3 +93,15 @@ RGB颜色，RGBA透明度，text-align排版
 
 **列表**
 div标签，选中一定的范围，和span一样
+
+
+**背景图片**
+水平平铺，竖直平铺，不平铺
+
+**渐变**
+www.grabient.com
+
+**盒子模型**
+- margin外边距
+- padding内边距
+- border边框，（粗细，样式，颜色）
