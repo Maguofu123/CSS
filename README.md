@@ -72,3 +72,18 @@
 $=以这个结尾
 
 （区分大小写）
+
+# day 2
+
+一定范围，约定俗成用span
+
+**字体样式**
+字体，粗细，大小，颜色
+
+**文本样式**
+RGB颜色，RGBA透明度，text-align排版
+
+水平居中：text-align:center
+
+首行缩进：text-indent:2em
+竖直居中
