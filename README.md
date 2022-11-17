@@ -137,3 +137,4 @@ box-shadow
 
 **display**
 
+block块元素，inline行内元素，inline-block是块元素，但是可以内联
