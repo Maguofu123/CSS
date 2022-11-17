@@ -107,3 +107,16 @@ www.grabient.com
 - margin外边距
 - padding内边距
 - border边框，（粗细，样式，颜色）
+
+# day 3
+**内外边距**
+
+元素大小=margin+border+padding+内容宽度
+
+**圆角边框**
+
+border-radius
+
+**盒子阴影**
+
+box-shadow
