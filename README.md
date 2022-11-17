@@ -109,6 +109,10 @@ www.grabient.com
 - border边框，（粗细，样式，颜色）
 
 # day 3
+*不要重复造轮子*
+
+先找到模板，然后element网站，飞冰网站寻找组件
+
 **内外边距**
 
 元素大小=margin+border+padding+内容宽度
@@ -120,3 +124,16 @@ border-radius
 **盒子阴影**
 
 box-shadow
+
+**浮动**
+
+标准文档流
+
+块级元素：h1~h6, p, div, 列表
+
+行内元素：span a img strong
+
+行内元素可以被包含在块级元素中
+
+**display**
+
