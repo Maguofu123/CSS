@@ -155,3 +155,10 @@ block块元素，inline行内元素，inline-block是块元素，但是可以内
 代码中尽量避免空div
 
 display方向无法控制，float方向可以控制
+
+##定位##
+
+**相对定位**
+
+position:relative 相对原来的位置进行偏移，仍然在标准流中，原来的位置会被保留
+
