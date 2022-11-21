@@ -138,3 +138,20 @@ box-shadow
 **display**
 
 block块元素，inline行内元素，inline-block是块元素，但是可以内联
+
+# day 4
+
+浮动float
+不允许浮动clear
+
+**float**
+
+浮动在框内方法：
+- 增加父级元素高度
+- 增加一个空的div标签，清除浮动
+- overflow:hidden
+- 父类添加一个伪类：after（推荐使用）
+
+代码中尽量避免空div
+
+display方向无法控制，float方向可以控制
